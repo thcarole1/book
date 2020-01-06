@@ -9,3 +9,8 @@ git commit -m "mon commit explicatif"
 git push
 
 ```
+
+## Afficher les commits déjà effectués
+``` 
+git log
+```
