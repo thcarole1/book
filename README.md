@@ -14,3 +14,8 @@ git push
 ``` 
 git log
 ```
+
+## Récupérer les commits déjà effectués
+``` 
+git push
+```
